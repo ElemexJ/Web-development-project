@@ -21,3 +21,8 @@ Probably will do something like an arcade site -> Advice on different games, arc
 
 - Make sure that priorities are in check -> the actual purpose of the site is to inform the user on tips and tricks to beat/achive good scores on arcade games.
 - Need multiple different pages with unique purposes.
+
+# Client: 
+## Developer presents their understanding of the project and talk through whether the project is achievable and issues with the scope.
+
+Waiting on Developer.
