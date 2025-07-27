@@ -12,10 +12,10 @@ Probably will do something like an arcade site -> Advice on different games, arc
 
 | Functional | Non-Functional |
 | ----------- | ----------- |
-| Tells the user tips and tricks for levels/arcade games | Should have an minimalistic but decently flashy look to it |
+| Tells the user tips and tricks for levels/arcade games | Should have an minimalistic but decently flashy look to it - neon colours and such, while still being easy to read (non unlike the timezone website)|
 | Blogging thing? Maybe something like Quora where you ask questions and you can respond. | Performs smoothly and graphically pleasing |
-| Ability to browse and navigate the site to different arcade games | Nice loading screens, smooth transitions and no visually confusing bugs or texts |
-| Can update on arcade credit sales in the area? |  |
+| Ability to browse and navigate the site to different arcade games - ddr levels, Bishibashi levels, hammer game scores, ect | Nice loading screens, smooth transitions and no visually confusing bugs or texts |
+| Can update on arcade credit sales in the area?(optional but nice to have) |  |
 
 ## Please consider the scope of the project and what is able to be offered within the timeframe - Mr Clark will be talk you through this aspect of the project.
 
