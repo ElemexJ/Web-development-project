@@ -34,13 +34,13 @@ Probably will do something like an arcade site -> Advice on different games, arc
 ### ACTION ITEMS
 - Decide the colour sceme -> neon/bright or pop colours (Due by 1/08)
 - Research ab/ goals of the site (code, incoperating difficult/complicated aspects of the site) -> look at similar sites for inspiration (1/08)
-- 
 
 ## Retrospecitve Client meeting (As the Client)
 Waiting on the developer.
 
-| Date | 28/07/2025 |
+|||
 | ----------- | ----------- |
+| Date | 28/07/2025 |
 | Meeting Facilitator | Joshua |
 | Purpose | To clarify the Functional (what the app will do) and Non-functional (what the app will look like and how will it perform) Aspects of the website. |
 | Attendees | Boris, Joshua |
