@@ -42,9 +42,12 @@ Waiting on the developer.
 | ----------- | ----------- |
 | Date | 28/07/2025 |
 | Meeting Facilitator | Joshua |
-| Purpose | To clarify the Functional (what the app will do) and Non-functional (what the app will look like and how will it perform) Aspects of the website. |
+| Purpose | To clarify the Functional (what the app will do) and Non-functional (what the app will look like and how will it perform) aspects of the website. |
 | Attendees | Boris, Joshua |
 | Topics | Talking through whether the project is achievable and issues with the scope. |
+
+### Overview
+- 
 
 ### Discussion
 
@@ -65,3 +68,5 @@ Waiting on the developer.
 
 ### Risks to Project 
 - 
+
+### Summary
