@@ -40,14 +40,20 @@ Probably will do something like an arcade site -> Advice on different games, arc
 Waiting on the developer.
 
 | Date | 28/07/2025 |
+| ----------- | ----------- |
 | Meeting Facilitator | Joshua |
+| ----------- | ----------- |
 | Purpose | To clarify the Functional (what the app will do) and Non-functional (what the app will look like and how will it perform) Aspects of the website. |
+| ----------- | ----------- |
 | Attendees | Boris, Joshua |
+| ----------- | ----------- |
 | Topics | Talking through whether the project is achievable and issues with the scope. |
+| ----------- | ----------- |
 
 ### Discussion
 
 | What Went Well? | What Needs To Change? | What needs to be answered? |
+| ----------- | ----------- |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -55,6 +61,7 @@ Waiting on the developer.
 
 ### Action Items
 | Action Item | Person Responsible | Due Date |
+| ----------- | ----------- |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -62,5 +69,8 @@ Waiting on the developer.
 
 ### Risks to Project 
 | Risk 1 |  |
+| ----------- | ----------- |
 | Risk 2 |  |
+| ----------- | ----------- |
 | Risk 3 |  |
+| ----------- | ----------- |
