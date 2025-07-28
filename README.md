@@ -47,26 +47,43 @@ Waiting on the developer.
 | Topics | Talking through whether the project is achievable and issues with the scope. |
 
 ### Overview
-- 
+- Doordash clone but for tools
+- Homepage, reccomended specials, ect
+- Multiple suppliers
+- Search page
+- Comparison lol (optional, trying to implementing late)
+- Filters by
+- Basket
+- Pay (form, using paypal ect)
+- Settings for login and accounts
+- Edict account
+- history 
+- View order history and delivery
+- browsing is easy and intuitive
+- pay by card and see esimated delivery time
+
+- sub 3 secs to load
+- Can handle many users at one time
+- secure information(if enough time)
+- All things are intiutive
+- Search can detect slight errors and correct them without issue
+- No bugs or errors
 
 ### Discussion
 
 | What Went Well? | What Needs To Change? | What needs to be answered? |
 | ----------- | ----------- | ----------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Clear understanding | A VERY ambitious, many many features | Everything was clear and well answered |
+| Clear goals | Tone down/take out some of the features | UI placements |
+| Knows what needs to be done and what not to do | A high amount of goals |  |
 
 ### Action Items
 | Action Item | Person Responsible | Due Date |
 | ----------- | ----------- | ----------- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Research of complicated features | Boris | next friday(next next meeting) |
 
 ### Risks to Project 
-- 
+- Ambitious and can run out of time when done (Search Feature, History, Login, comparing prices)
 
 ### Summary
+Client has a very clear idea and passionate about what to do. The scope is extremely ambitious, and the features are hard to do.
