@@ -37,20 +37,21 @@ Probably will do something like an arcade site -> Advice on different games, arc
 - 
 
 ## Retrospecitve Client meeting (As the Client)
+Waiting on the developer.
 
 | Date | 28/07/2025 |
 | Meeting Facilitator | Joshua |
 | Purpose | To clarify the Functional (what the app will do) and Non-functional (what the app will look like and how will it perform) Aspects of the website. |
-| Attendees | Boris Toric, Joshua Lumbewe |
+| Attendees | Boris, Joshua |
 | Topics | Talking through whether the project is achievable and issues with the scope. |
 
 ### Discussion
 
-| What Went Well? || What Needs To Change? || What needs to be answered? |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| What Went Well? | What Needs To Change? | What needs to be answered? |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 ### Action Items
 | Action Item | Person Responsible | Due Date |
