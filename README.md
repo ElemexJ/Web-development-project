@@ -1,6 +1,8 @@
 # Web-development-project
 Assesment 3 10CPT FSHS
 
+# Week one
+
 # Developer: 
 (Review social network documentation and refine/amend the social network/app Project Definition and Requirements.)
 
@@ -87,3 +89,31 @@ Waiting on the developer.
 
 ### Summary
 Client has a very clear idea and passionate about what to do. The scope is extremely ambitious, and the features are hard to do.
+
+# Week 2
+Sketch out the wireframe of your web apps UI - it doesn’t have to be exact - this is just a sketch or plan - you may use Figma or other tool if this is easier.
+
+When designing, consider the following:
+- Navigation
+- Branding
+- Forms
+- Buttons
+- Any other interactive elements
+- Annotate your sketch and outline how your app should work. Taking notes will help you clarify and understand why you’ve designed certain elements at a later stage. 
+
+Make sure to consider what choices you are going to make in terms of COLOUR PALETTE,  TYPOGRAPHY and IMAGE/ICON CHOICE. Indicate to your client this week the main sets of choices you are going to make in these areas - collate them into ta table in your VSCode README.MD.
+
+## Summary
+
+Wireframe that I added was a home page, a games page as well as a settings page.
+| Problem/neccesity | Implemented Solution |
+|-------------|-------------|
+| Navigation | My navigation bar remained at the top the entire time, even when scrolling down to ensure ease of access to other parts of the site |
+| Branding | The branding is subtle but always present - the logo on the top left, and the name of the site always present as well |
+| Form | The form of the website is well spaced and natural to ensure no cluttering and ease on the eyes while still having a good popping colour, neon purple, red, aqua and yellow. |
+| Buttons | Buttons are obvious and clear, being large enough with a "Read More" in order to clear confusion and enusure they know that the button does. |
+| Colour Palette | Colour Palette is a clash of Neon purple, Yellow, Aqua and Red to help bring out the text while having an arcade like feel the site to give a sence of farmiliarity to the arcade gamers. |
+| Typography | The Typography of the site has both an 8-bit text for sub-headings, things that need to be stand out as, while a larger all caps font for main titles and catchphrases. The usual font is a smaller but easy to read font that allows the colour to pop, and the font to allow ease of reading |
+| Icons/Images | Images are not fully implemented but are all standout with colours related to the colour scheme, while representing what I want them to. They all are peppered across the site, all giving 'headings' or flavour site. |
+
+Annotations are on the images in the folder
