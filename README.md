@@ -103,7 +103,7 @@ When designing, consider the following:
 
 Make sure to consider what choices you are going to make in terms of COLOUR PALETTE,  TYPOGRAPHY and IMAGE/ICON CHOICE. Indicate to your client this week the main sets of choices you are going to make in these areas - collate them into ta table in your VSCode README.MD.
 
-## Summary
+ ## Summary
 
 Wireframe that I added was a home page, a games page as well as a settings page.
 | Problem/neccesity | Implemented Solution |
@@ -116,4 +116,21 @@ Wireframe that I added was a home page, a games page as well as a settings page.
 | Typography | The Typography of the site has both an 8-bit text for sub-headings, things that need to be stand out as, while a larger all caps font for main titles and catchphrases. The usual font is a smaller but easy to read font that allows the colour to pop, and the font to allow ease of reading |
 | Icons/Images | Images are not fully implemented but are all standout with colours related to the colour scheme, while representing what I want them to. They all are peppered across the site, all giving 'headings' or flavour site. |
 
-Annotations are on the images in the folder
+Annotations are in the images in the folder
+
+# Week 3
+## Summary
+
+Creating an alternative wireframe for the website with different ideas on the layout of the UI, typography, and colour schemes.
+
+| Problem/neccesity | Implemented Solution |
+|-------------|-------------|
+| Navigation | Has an icon that has a menu that pops up on the side of the website, shading the rest of the site|
+| Branding | Logo remains the same. |
+| Form | Lots of Negative space on the homepage, with good uses of icons to give engagement. Made sure the website does not feel cluttered. |
+| Buttons | Interactive and clear when given. Icons, buttons, as well as the interactive arcade cabinet. |
+| Colour Palette | Kept mainly the same. Removed the Blues, Reds and Yellows and using whites and blacks instead. |
+| Typography | More of a neon coloured and text based feel to the site, with the titles and sub-headings being Trend-Sans-Five, a type of text that glows and is bubble text. |
+| Icons/Images | Icons are plentiful in the side menu, and gives clear indication onto what the page you are going to will be. The images are sparce but are used effectively. |
+
+Annotations are in the images (contained in the folder.)
