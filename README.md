@@ -116,7 +116,7 @@ Wireframe that I added was a home page, a games page as well as a settings page.
 | Typography | The Typography of the site has both an 8-bit text for sub-headings, things that need to be stand out as, while a larger all caps font for main titles and catchphrases. The usual font is a smaller but easy to read font that allows the colour to pop, and the font to allow ease of reading |
 | Icons/Images | Images are not fully implemented but are all standout with colours related to the colour scheme, while representing what I want them to. They all are peppered across the site, all giving 'headings' or flavour site. |
 
-Annotations are in the images in the folder
+Annotations are in the images in the folder named "Wireframe Images"
 
 # Week 3
 ## Summary
@@ -133,4 +133,15 @@ Creating an alternative wireframe for the website with different ideas on the la
 | Typography | More of a neon coloured and text based feel to the site, with the titles and sub-headings being Trend-Sans-Five, a type of text that glows and is bubble text. |
 | Icons/Images | Icons are plentiful in the side menu, and gives clear indication onto what the page you are going to will be. The images are sparce but are used effectively. |
 
-Annotations are in the images (contained in the folder.)
+Annotations are in the images (contained in the folder "Alternate Wireframe Images".)
+
+# Week 4
+## Summary
+
+- Design an algorithm for one functional component of your web application. MAKE SURE your algorithm is a STEP BY STEP outline of how input is processed/checked/stored by the system and produces an output. (Functional components examples - web messaging system, login screen functionality, events posting, commenting on posts etc.)
+
+- Design 2 test cases to discuss with your client - see "Test Case Template & Example" in the web link below entitled "HOw to create Test Cases" - you do not need to complete the ACTUAL RESULT and PASS/FAIL component at this stage
+
+## Algorithm
+![Algorithm](AlgorithmFlowchart.png)
+Additionally, Screenshot is inside the folder (titled Algorithm Flowchart)
