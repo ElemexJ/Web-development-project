@@ -145,6 +145,7 @@ Annotations are in the images (contained in the folder "Alternate Wireframe Imag
 ## Algorithm
 ![Algorithm](Algorithms/AlgorithmFlowchart.png)
 Additionally, Screenshot is inside the folder (titled Algorithm Flowchart)
+Alternatively, a link is provided [here](https://lucid.app/lucidchart/1d758ea7-eb07-4b87-8ffa-745b4da0a66d/edit?viewport_loc=607%2C-466%2C3208%2C1596%2C0_0&invitationId=inv_e37ebfca-70cc-4aa6-82f5-8f6ce041c6e8)
 
 ## Test cases
 
