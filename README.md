@@ -143,5 +143,12 @@ Annotations are in the images (contained in the folder "Alternate Wireframe Imag
 - Design 2 test cases to discuss with your client - see "Test Case Template & Example" in the web link below entitled "HOw to create Test Cases" - you do not need to complete the ACTUAL RESULT and PASS/FAIL component at this stage
 
 ## Algorithm
-![Algorithm](AlgorithmFlowchart.png)
+![Algorithm](Algorithms/AlgorithmFlowchart.png)
 Additionally, Screenshot is inside the folder (titled Algorithm Flowchart)
+
+## Test cases
+
+| Test case ID | Test case name | Preconditions | Test steps | Expected result | Actual Result | Pass/Fail | Priority |
+|-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
+| TC001 | Verify User Login | User must have a registered account | Open the application -> Enter a valid username and password -> Click the 'Login' button | User will be able to sucessfully log in to their account |  |  | High |
+| TC002 | Confirm searching works | N/A | Open the application -> Enter key words/game and/or genre -> wait until site loads | Specified game and/or genre of games should pop up |  |  | medium |
