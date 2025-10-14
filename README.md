@@ -153,3 +153,41 @@ Alternatively, a link is provided [here](https://lucid.app/lucidchart/1d758ea7-e
 |-------------|-------------|-------------|-------------|-------------|-------------|-------------|-------------|
 | TC001 | Verify User Login | User must have a registered account | Open the application -> Enter a valid username and password -> Click the 'Login' button | User will be able to sucessfully log in to their account |  |  | High |
 | TC002 | Confirm searching works | N/A | Open the application -> Enter key words/game and/or genre -> wait until site loads | Specified game and/or genre of games should pop up |  |  | medium |
+
+# Week 5
+
+- Went through the tutorial and completed it word for word
+- Created a UserInformation 
+- Fixed all of the bugs, and added the right folders
+- Added the HTML opperational, and can added the backend
+- CSS is not currently working
+
+# Week 6
+- Readjusted folders and files so the code links and opperates correctly
+- Starting to change into target website
+- added a bunch of SQL tables for later uses
+
+# Week 7 
+- added new pages and images
+- Making home page from template
+- inserted information into SQL
+- Added more stuff to pages
+
+# Week 8
+- Created about me page
+- Created a filter and dropdown menu for the games based of SQL information
+
+# Week 9
+- Created a not funtional reset password
+- Created and polished login pages
+- added a bunch of SQL data
+
+# Week 10
+- Created, fixed and confirmed login works
+- Created a blogging area where logged in users can post
+- Added a liking system for the posts
+- Changed Nav so that it changes if you're logged in/not logged in.
+
+# Week 1(T4)
+- Fixed minor stuff -> CSS styling, looks.
+- testing for bugs
