@@ -193,3 +193,12 @@ Alternatively, a link is provided [here](https://lucid.app/lucidchart/1d758ea7-e
 # Week 1(T4)
 - Fixed minor stuff -> CSS styling, looks.
 - testing for bugs
+
+# TO LOAD THE WEBSITE
+1. Download and open up the [Flask_PWA_Programming_For_The_Web_Task_Template](https://github.com/ElemexJ/Flask_PWA_Programming_For_The_Web_Task_Template)
+2. Open up / go to main.py
+3. Run main.py
+
+If you wish to create an account, please do so. If not use this user and password:
+Username: a
+Password: a
