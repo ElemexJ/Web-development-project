@@ -181,6 +181,8 @@ Alternatively, a link is provided [here](https://lucid.app/lucidchart/1d758ea7-e
 - Created a not funtional reset password
 - Created and polished login pages
 - added a bunch of SQL data
+- Ran lighthouse reports
+- Scores around 80+ for all, notably 90+ for Best practices.
 
 # Week 10
 - Created, fixed and confirmed login works
