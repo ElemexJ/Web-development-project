@@ -202,3 +202,10 @@ Alternatively, a link is provided [here](https://lucid.app/lucidchart/1d758ea7-e
 If you wish to create an account, please do so. If not use this user and password:
 Username: a
 Password: a
+
+# CREDITS
+- Images from various online sites
+- Gemini for helping with CSS, HTML navigation and Python coding
+- Yi Ping for helping me python coding (Login and Signup)
+- Brandon for helping me with python coding (website registering)
+- benpaddlejones for the original Flask template and instructions
